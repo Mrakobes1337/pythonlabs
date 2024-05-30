@@ -13,3 +13,5 @@ ___
 
 ![image](https://github.com/Mrakobes1337/pythonlabs/assets/159140717/e1489736-f121-4545-9742-243c0557b9a9)
 
+Управление:
+WASD
