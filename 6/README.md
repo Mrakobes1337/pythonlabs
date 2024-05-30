@@ -17,5 +17,6 @@ ___
 
 
 
-
-
+Источники:
+https://openpyxl.readthedocs.io/en/stable/
+https://guietta.readthedocs.io/en/latest/
