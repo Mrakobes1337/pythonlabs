@@ -16,6 +16,6 @@ ___
 
 Источники:
 
-https://ru.hexlet.io/courses/python-oop-basics/lessons/properties/theory_unit
+https://ru.hexlet.io/courses/python-oop-basics/lessons/properties/theory_unit - свойства
 
-https://github.com/Erriez/pyside6-getting-started
+https://github.com/Erriez/pyside6-getting-started - PySide6
