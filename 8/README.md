@@ -15,3 +15,10 @@ ___
 
 Управление:
 WASD
+
+
+
+
+Источники:
+https://python-course.readthedocs.io/projects/elementary/en/latest/lessons/18-pygame.html
+https://pypi.org/project/pygame-widgets/
