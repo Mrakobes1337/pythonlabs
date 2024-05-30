@@ -21,6 +21,6 @@ WASD
 
 Источники:
 
-https://python-course.readthedocs.io/projects/elementary/en/latest/lessons/18-pygame.html
+https://python-course.readthedocs.io/projects/elementary/en/latest/lessons/18-pygame.html - pygame
 
-https://pypi.org/project/pygame-widgets/
+https://pypi.org/project/pygame-widgets/ - pygame widgets
