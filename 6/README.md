@@ -19,6 +19,6 @@ ___
 
 Источники:
 
-https://openpyxl.readthedocs.io/en/stable/
+https://openpyxl.readthedocs.io/en/stable/ - openpyxl
 
-https://guietta.readthedocs.io/en/latest/
+https://guietta.readthedocs.io/en/latest/ - guietta
